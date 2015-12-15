@@ -4,7 +4,7 @@ Dan's Favorite Movies
 
 To run the code, download the zip file. Then unzip.
 
-The folder marked movie_siteDJR contains all relevant files. Navigate to this folder in your Terminal. To launch the web page, run the command: python entertainment_center.py
+The folder marked movie\_siteDJR contains all relevant files. Navigate to this folder in your Terminal. To launch the web page, run the command: python entertainment_center.py
 
 Files:
 
